@@ -1,0 +1,17 @@
+body {
+    background-image: url(../images2.jpg);
+    background-size: cover;
+}
+
+.judulmisi {
+    color: #fff;
+}
+
+.textmisi {
+    color: rgb(255, 255, 255);
+    word-spacing: 10px;
+    line-height: 45px;
+    margin-bottom: 20px;
+    text-align: justify;
+    font-size: 25px;
+}

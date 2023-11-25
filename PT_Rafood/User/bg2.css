@@ -1,0 +1,17 @@
+body {
+    background-image: url(../image1.jpg);
+    background-size: cover;
+}
+
+.judulvisi {
+    color: #fff;
+}
+
+.textvisi {
+    color: rgb(255, 255, 255);
+    word-spacing: 10px;
+    line-height: 45px;
+    margin-bottom: 20px;
+    text-align: justify;
+    font-size: 25px;
+}
